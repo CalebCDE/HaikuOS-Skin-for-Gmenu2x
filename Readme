@@ -1,4 +1,4 @@
-Versión actualizada del THeme de BeOS para el Gmenu2x de GP2X realizado por Paul Kostrzewa:
+Versión actualizada del skin de BeOS para Gmenu2x de la consola GP2X realizado por Paul Kostrzewa en 2008:
 
 https://dl.openhandhelds.org/cgi-bin/gp2x.cgi?0,0,0,0,61,2272
 
@@ -6,6 +6,8 @@ por _-Caleb-_ (cqleb@tutanota.io)
 
 Iconos: https://github.com/darealshinji/haiku-icons
 
-Versión inicial:
+Versión inicial 1.0
+
+Ionos de settings y algunas apps.
 
 Copiar la carpeta HaikuOS en /usr/local/home/.gmenu2x/skins/
